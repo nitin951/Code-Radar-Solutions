@@ -2,8 +2,8 @@
 int main(){
 char a,z;
 scanf("%c",&a);
-printf("you entered:a=%c\n",a);
+printf("You entered: a%c",a);
 scanf("%c",&z);
-printf("you entered:z=%c\n",z);
+printf("You entered: z%c",z);
 return 0;
 }
