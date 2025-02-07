@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    char message[]="Hello";
-    char fname[]="World";
-    printf("%s %s",message,fname);
+    char str1[100], str2[100];
+    
+    printf("%s %s",str1,str2);
     return 0;
 
 }
