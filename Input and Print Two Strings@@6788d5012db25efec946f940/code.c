@@ -2,7 +2,7 @@
 int main(){
     char message[]="Hello";
     char fname[]="World";
-    printf("%s %s!",message,fname);
+    printf("%s %s",message,fname);
     return 0;
 
 }
